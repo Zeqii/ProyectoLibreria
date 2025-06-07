@@ -1,0 +1,5 @@
+com\umg\proy\milibreria\App.class
+com\umg\proy\milibreria\db\DBConfig.class
+com\umg\proy\milibreria\db\MongoLogger.class
+com\umg\proy\milibreria\db\MySQLConnector.class
+com\umg\proy\milibreria\SystemInfo.class
